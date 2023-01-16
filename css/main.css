@@ -141,6 +141,18 @@ body{
     width: 600px;
     margin: 24px 0;
 }
+.intro__text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.6;
+    width: 528px;
+    margin-bottom: 35px;
+}
+
 .intro__serv__text{
     font-family: 'Poppins';
     font-style: normal;
